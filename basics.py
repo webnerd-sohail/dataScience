@@ -35,4 +35,4 @@ for list in list :
     print(list)
     
 for i in range(1,100000,1):
-    print(i,'love you Taslim...!!!')
+    print(i)
